@@ -1,2 +1,8 @@
 # cs3113-project-5-platformer
-Project 5 in CS 3113. Scrolling 3 level platformer
+W/S or arrow keys to move
+
+Space to jump
+
+P for pseudo pause
+
+T to start, R to reset after losing a life
